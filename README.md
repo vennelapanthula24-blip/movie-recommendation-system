@@ -1,8 +1,8 @@
-# 🎬 Movie Recommendation System
+# Movie Recommendation System
 
 A simple machine-learning-based movie recommendation system built with **Python, Pandas, Scikit-learn and Streamlit**.
 
-## 🚀 Features
+## Features
 
 - Select a movie from the dataset
 - Recommend similar movies
@@ -12,7 +12,7 @@ A simple machine-learning-based movie recommendation system built with **Python,
 - Interactive Streamlit UI
 - Displays genre, year, rating and similarity percentage
 
-## 🧠 Machine Learning Approach
+## Machine Learning Approach
 
 The system uses **content-based filtering**.
 
@@ -28,7 +28,7 @@ Cosine similarity compares the selected movie with every other movie.
 ### Step 4: Recommendation
 Movies with the highest similarity scores are returned as recommendations.
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 Movie-Recommendation-System/
@@ -39,7 +39,7 @@ Movie-Recommendation-System/
 └── README.md
 ```
 
-## 💻 Run Locally
+## Run Locally
 
 ### 1. Clone the repository
 
@@ -71,7 +71,7 @@ streamlit run app.py
 
 The application will open in your browser.
 
-## 🌐 Deploy on Streamlit Community Cloud
+## Deploy on Streamlit Community Cloud
 
 1. Push the project to GitHub.
 2. Open Streamlit Community Cloud.
@@ -80,7 +80,7 @@ The application will open in your browser.
 5. Select `app.py`.
 6. Click Deploy.
 
-## 🛠 Technologies
+## Technologies
 
 - Python
 - Pandas
@@ -91,6 +91,6 @@ The application will open in your browser.
 - Streamlit
 - Git & GitHub
 
-## 👨‍💻 Author
+## Author
 
-Vasanth Panthula
+Vennela panthula
